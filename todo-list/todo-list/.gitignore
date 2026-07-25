@@ -1,7 +1,7 @@
 # Visual Studio
-.vs/
 Debug/
 Release/
+.vs/
 x64/
 x86/
 *.user
@@ -10,11 +10,4 @@ x86/
 *.exe
 *.pdb
 *.ilk
-
-# База данных
 *.db
-*.db-shm
-*.db-wal
-
-# Папка репозитория (если она вложена)
-todo-list/.vs/
