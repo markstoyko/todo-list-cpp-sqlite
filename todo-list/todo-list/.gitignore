@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.user
+*.suo
+*.obj
+*.exe
+*.pdb
+*.ilk
+
+# База данных
+*.db
+*.db-shm
+*.db-wal
+
+# Папка репозитория (если она вложена)
+todo-list/.vs/
